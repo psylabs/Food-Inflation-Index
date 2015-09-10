@@ -1,2 +1,1 @@
-# BayesianABtest
 # Food Inflation Index
